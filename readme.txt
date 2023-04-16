@@ -4,4 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git remote test.
 Git remote test2.
-Git remote test2.
